@@ -1,12 +1,11 @@
-import { View, Text } from 'react-native'
-
+import { View, Text } from "react-native";
 
 const Proveedores = () => {
-	return (
-		<View>
-			<Text>Proveedores</Text>
-		</View>
-	)
-}
+  return (
+    <View>
+      <Text>Proveedores</Text>
+    </View>
+  );
+};
 
-export default Proveedores
+export default Proveedores;

@@ -1,12 +1,11 @@
-import { View, Text } from 'react-native'
-
+import { View, Text } from "react-native";
 
 const Citas = () => {
-	return (
-		<View>
-			<Text>Citas</Text>
-		</View>
-	)
-}
+  return (
+    <View>
+      <Text>Citas</Text>
+    </View>
+  );
+};
 
-export default Citas
+export default Citas;
